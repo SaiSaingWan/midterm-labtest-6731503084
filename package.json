@@ -1,0 +1,32 @@
+{
+  "name": "midterm-labtest-6731503084",
+  "version": "1.0.0",
+  "description": "LabTest 6 Oct 2026",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaiSaingWan/midterm-labtest-6731503084.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/SaiSaingWan/midterm-labtest-6731503084/issues"
+  },
+  "homepage": "https://github.com/SaiSaingWan/midterm-labtest-6731503084#readme",
+  "dependencies": {
+    "@hono/node-server": "^2.1.3",
+    "better-sqlite3": "^13.0.3",
+    "hono": "^4.13.13"
+  },
+  "devDependencies": {
+    "@types/better-sqlite3": "^9.6.0",
+    "@types/node": "^26.6.4",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  }
+}
